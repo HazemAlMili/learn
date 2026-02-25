@@ -1,0 +1,7 @@
+.links a {
+    background-color: burlywood !important;
+}
+
+.links a:hover {
+    background-color: blue !important;
+}
